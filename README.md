@@ -1,6 +1,6 @@
 # **Data and Code for "[RMDS Deep Dive: Fintech and AI](https://www.eventbrite.com/e/rmds-deep-dive-financial-technology-cryptocurrency-ai-tickets-109884403208)"**
 
-### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)***
+### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)**
 ### Students: to be added
 
 ### 1. Folder Contents
