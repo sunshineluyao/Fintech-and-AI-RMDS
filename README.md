@@ -3,6 +3,9 @@
 ### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)**
 ### Students: to be added
 
+####
+####
+
 ### 1. Folder Contents
 ##### (1) The "Surveys" folder contains pre- and after- Course survey for the students' situation. 
 ##### (2) The “Bitcoin_datascience” folder contains data and code for Lecture 2 "Economist, Data Scientist, and Data Engineer Ensemble"
