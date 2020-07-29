@@ -12,4 +12,6 @@
 ##### (3) The "Bitcoin_applications" folder contains data and code for Lecture 3 "Create Interactive Data Visualization Applications"
 ##### (4) The "CapstoneProject" folder contains data and code for the Capstone Project in Lecture 5 and 6. 
 
-### 2. "MetaData_CMC.csv" contains meta data Information from [The Coin MarketCap (CMC)](https://coinmarketcap.com/currencies/bitcoin/historical-data)** for variable descriptions 
+### 2.  Meta data Information 
+
+##### See "MetaData_CMC.csv" contains for meta data downloaded from [The Coin MarketCap (CMC)](https://coinmarketcap.com/currencies/bitcoin/historical-data)** for variable descriptions. 
