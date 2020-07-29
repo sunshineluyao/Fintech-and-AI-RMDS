@@ -1,2 +1,2 @@
 
-### The Data are from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/)**
+### The Data are downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/)
