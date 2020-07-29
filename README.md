@@ -14,4 +14,4 @@
 
 ### 2.  Meta data Information 
 
-##### See "MetaData_CMC.csv" contains for meta data downloaded from [The Coin MarketCap (CMC)](https://coinmarketcap.com/currencies/bitcoin/historical-data)** for variable descriptions. 
+##### (1) See "MetaData_CMC.csv" contains for meta data downloaded from [The Coin MarketCap (CMC)](https://coinmarketcap.com/currencies/bitcoin/historical-data)** for variable descriptions. 
