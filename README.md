@@ -11,3 +11,7 @@
 ##### (2) The “Bitcoin_datascience” folder contains data and code for Lecture 2 "Economist, Data Scientist, and Data Engineer Ensemble"
 ##### (3) The "Bitcoin_applications" folder contains data and code for Lecture 3 "Create Interactive Data Visualization Applications"
 ##### (4) The "CapstoneProject" folder contains data and code for the Capstone Project in Lecture 5 and 6. 
+
+### 2.  Meta data Information 
+
+##### (1) See "MetaData_CMC.csv" for meta data downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/) ** for variable descriptions. 
