@@ -14,4 +14,4 @@
 
 ### 2.  Meta data Information 
 
-##### (1) See "MetaData_CMC.csv" contains for meta data downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/) ** for variable descriptions. 
+##### (1) See "MetaData_CMC.csv" for meta data downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/) ** for variable descriptions. 
