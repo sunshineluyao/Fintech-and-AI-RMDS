@@ -11,7 +11,7 @@ Barbara Hong: [LinkedIn](https://www.linkedin.com/in/barbarahong77/)
 
 Piliasov Prokhor: [LinkedIn](https://www.linkedin.co/in/pilasv)
 
-Bowen Chen: [LinkedIn](https://www.linkedin.com/in/chen-bowen/)[Github](https://github.com/chen-bowen)
+Bowen Chen: [LinkedIn](https://www.linkedin.com/in/chen-bowen/); [Github](https://github.com/chen-bowen)
 
 Sathvik Vivek: [LinkedIn](https://www.linkedin.com/in/sathvikvivek/)
 
