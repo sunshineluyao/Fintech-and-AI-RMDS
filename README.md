@@ -40,5 +40,16 @@ Xiaodong Ping: [LinkedIn](https://www.linkedin.com/in/mordredpxd)
 ##### (1) See "MetaData_CMC.csv" for meta data downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/) ** for variable descriptions. 
 
 # Course Description
+### Course Overview
+This course will provide a comprehensive and solid understanding of Blockchain and Crypto economics. Topics including smart contracts, cryptocurrencies, and blockchain governance will be elaborated via case studies using Bitcoin, Etherum, and DFINITY as examples. We will also look at how blockchain is empowering decentralized finance applications.
+
+This course equips participants to thrive within the global paradigm shift for data-driven results and research and across many industries globally. It will empower them through both artificial intelligence and business strategy initiatives. We will practice a data-driven methodology and academia/industry collaborative approach to answer research questions at the frontier of Fintech. We will learn from a joint perspective of Academia Researcher, Economist, Data Scientist and Data Engineer.
+
+### Learning Outcomes
+##### Understand the basics of blockchain and crypto economics: the emergence; the problem solved; and the value created.
+##### Explain in non-technical terms the related concepts including smart contracts, cryptocurrencies, decentralized finance etc.
+##### Demonstrate and discuss case studies in Blockchain and Crypto Economics and Blockchain governance
+##### Prosper collaboratively in a team with roles of Economist, Data Scientist, and Data Engineer; provide constructive criticism to peers’ work and contribute to team projects.
+##### Conduct data-driven research and outlook technology transfer independently through 1) targeting an important and interesting research question of high intellectual merits and broad impacts 2) finding and vetting sources to acquire information 3) deploying strong analytical skills in a team of economist, data scientist, and data engineer 4) communicating research results 5) identifying limitations of current research and future research topics
 
 ![alt text](https://github.com/sunshineluyao/Fintech-and-AI-RMDS/blob/master/RMDS_DeepDive.jpg)
