@@ -3,29 +3,29 @@
 ### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)**
 ### Students:
 
-[Shravani Kasralikar](https://www.linkedin.com/in/skasrali/)
+Shravani Kasralikar [LinkedIn](https://www.linkedin.com/in/skasrali/) [Github](https://github.com/skasralikar)
 
-[Dhamodharan Kaliyaperumal](https://www.linkedin.com/in/dhamo-datascientist)
+Dhamodharan Kaliyaperumal[LinkedIn](https://www.linkedin.com/in/dhamo-datascientist)
 
-[Barbara Hong](https://www.linkedin.com/in/barbarahong77/)
+Barbara Hong[LinkedIn](https://www.linkedin.com/in/barbarahong77/)
 
-[Piliasov Prokhor](https://www.linkedin.co/in/pilasv)
+Piliasov Prokhor[LinkedIn](https://www.linkedin.co/in/pilasv)
 
-[Bowen Chen](https://www.linkedin.com/in/chen-bowen/)
+Bowen Chen[LinkedIn](https://www.linkedin.com/in/chen-bowen/)[Github](https://github.com/chen-bowen)
 
-[Sathvik Vivek](https://www.linkedin.com/in/sathvikvivek/)
+Sathvik Vivek[LinkedIn](https://www.linkedin.com/in/sathvikvivek/)
 
-[Shangze He](https://www.linkedin.com/in/mandy-shangze-he-mba-b396bb134/)
+Shangze He[LinkedIn](https://www.linkedin.com/in/mandy-shangze-he-mba-b396bb134/)
 
-[Christopher Ian Steele](https://www.linkedin.com/in/christopher-ian-steele/)
+Christopher Ian Steele[LinkedIn](https://www.linkedin.com/in/christopher-ian-steele/)
 
-[Alicia Wei](https://www.linkedin.com/in/aliciawei/)
+Alicia Wei[LinkedIn](https://www.linkedin.com/in/aliciawei/)
 
-[Yuelin Wang](https://www.linkedin.com/in/yuelin-wang)
+Yuelin Wang[LinkedIn](https://www.linkedin.com/in/yuelin-wang)
 
-[Victor Qiu](https://www.linkedin.com/in/victorqwk)
+Victor Qiu[LinkedIn](https://www.linkedin.com/in/victorqwk)
 
-[Xiaodong Ping](https://www.linkedin.com/in/mordredpxd)
+Xiaodong Ping[LinkedIn](https://www.linkedin.com/in/mordredpxd)
 
 ####
 ####
