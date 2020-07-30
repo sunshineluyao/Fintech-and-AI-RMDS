@@ -39,4 +39,6 @@ Xiaodong Ping: [LinkedIn](https://www.linkedin.com/in/mordredpxd)
 
 ##### (1) See "MetaData_CMC.csv" for meta data downloaded from [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/) ** for variable descriptions. 
 
+# Course Description
+
 ![alt text](https://github.com/sunshineluyao/Fintech-and-AI-RMDS/blob/master/RMDS_DeepDive.jpg)
