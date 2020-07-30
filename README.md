@@ -55,7 +55,9 @@ This course equips participants to thrive within the global paradigm shift for d
 
 ### Participants Description
 - The course is open to a diverse background of audience who is interested in the Frontier of Fintech and AI, include but not limited to:
+
  -Researcher in academia interested in Fintech and/or the application of their research in Data Science workflow
+ 
  -Economist, Data Scientist, Data Engineer in industry interested in Research questions at the Frontier of Fintech and AI; possesses ambition to develop a systematic way of conducting research and technology transfer independently.
 
 ### Value Adds-on
