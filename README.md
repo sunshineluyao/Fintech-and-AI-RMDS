@@ -53,4 +53,27 @@ This course equips participants to thrive within the global paradigm shift for d
 - Prosper collaboratively in a team with roles of Economist, Data Scientist, and Data Engineer; provide constructive criticism to peers’ work and contribute to team projects.
 - Conduct data-driven research and outlook technology transfer independently through 1) targeting an important and interesting research question of high intellectual merits and broad impacts 2) finding and vetting sources to acquire information 3) deploying strong analytical skills in a team of economist, data scientist, and data engineer 4) communicating research results 5) identifying limitations of current research and future research topics
 
+### Participants Description
+- The course is open to a diverse background of audience who is interested in the Frontier of Fintech and AI, include but not limited to:
+--Researcher in academia interested in Fintech and/or the application of their research in Data Science workflow
+--Economist, Data Scientist, Data Engineer in industry interested in Research questions at the Frontier of Fintech and AI; possesses ambition to develop a systematic way of conducting research and technology transfer independently.
+
+### Value Adds-on
+- Students will be invited to join our course Slack channel for interaction in the course and beyond.
+- Students will have a well-documented collaborative team project profile for personal publicities and further endeavors
+- Upon completing the course successfully, students will be invited to join our course LinkedIn Alumni Group for connections, future opportunities, and much more.
+
+### Highlights
+- Understand the basics of blockchain and crypto economics
+- Hands-on application in a team setting in the roles of an economist, data scientist, and data engineer
+- Synthesize your knowledge and skills by completing a capstone project for your portfolio
+
+### Course Structure
+- TIme: 1pm – 3 PM PDT on 7/23, 7/30, 8/6, 8/13, 8/20, 8/27
+- Prerequisites: Basics in statistics
+- Format: Online through Zoom
+- Number of Sessions: 6
+- Required Tools: Slack, Github, LinkedIn, Google Colab, Lucidchart, iSlides
+- Program/Workload: Live training: 2 hrs/week (Including hands-on student activities)
+
 ![alt text](https://github.com/sunshineluyao/Fintech-and-AI-RMDS/blob/master/RMDS_DeepDive.jpg)
