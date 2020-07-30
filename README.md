@@ -3,32 +3,31 @@
 ### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)**
 ### Students:
 
-Shravani Kasralikar [LinkedIn](https://www.linkedin.com/in/skasrali/) [Github](https://github.com/skasralikar)
+Shravani Kasralikar: [LinkedIn](https://www.linkedin.com/in/skasrali/); [Github](https://github.com/skasralikar)
 
-Dhamodharan Kaliyaperumal[LinkedIn](https://www.linkedin.com/in/dhamo-datascientist)
+Dhamodharan Kaliyaperumal: [LinkedIn](https://www.linkedin.com/in/dhamo-datascientist)
 
-Barbara Hong[LinkedIn](https://www.linkedin.com/in/barbarahong77/)
+Barbara Hong: [LinkedIn](https://www.linkedin.com/in/barbarahong77/)
 
-Piliasov Prokhor[LinkedIn](https://www.linkedin.co/in/pilasv)
+Piliasov Prokhor: [LinkedIn](https://www.linkedin.co/in/pilasv)
 
-Bowen Chen[LinkedIn](https://www.linkedin.com/in/chen-bowen/)[Github](https://github.com/chen-bowen)
+Bowen Chen: [LinkedIn](https://www.linkedin.com/in/chen-bowen/)[Github](https://github.com/chen-bowen)
 
-Sathvik Vivek[LinkedIn](https://www.linkedin.com/in/sathvikvivek/)
+Sathvik Vivek: [LinkedIn](https://www.linkedin.com/in/sathvikvivek/)
 
-Shangze He[LinkedIn](https://www.linkedin.com/in/mandy-shangze-he-mba-b396bb134/)
+Shangze He: [LinkedIn](https://www.linkedin.com/in/mandy-shangze-he-mba-b396bb134/)
 
-Christopher Ian Steele[LinkedIn](https://www.linkedin.com/in/christopher-ian-steele/)
+Christopher Ian Steele: [LinkedIn](https://www.linkedin.com/in/christopher-ian-steele/)
 
-Alicia Wei[LinkedIn](https://www.linkedin.com/in/aliciawei/)
+Alicia Wei: [LinkedIn](https://www.linkedin.com/in/aliciawei/)
 
-Yuelin Wang[LinkedIn](https://www.linkedin.com/in/yuelin-wang)
+Yuelin Wang: [LinkedIn](https://www.linkedin.com/in/yuelin-wang)
 
-Victor Qiu[LinkedIn](https://www.linkedin.com/in/victorqwk)
+Victor Qiu: [LinkedIn](https://www.linkedin.com/in/victorqwk)
 
-Xiaodong Ping[LinkedIn](https://www.linkedin.com/in/mordredpxd)
+Xiaodong Ping: [LinkedIn](https://www.linkedin.com/in/mordredpxd)
 
-####
-####
+
 
 ### 1. Folder Contents
 ##### (1) The "Surveys" folder contains pre- and after- Course survey for the students. 
