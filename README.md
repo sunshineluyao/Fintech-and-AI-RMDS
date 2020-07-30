@@ -1,7 +1,31 @@
 # **Data and Code for "[RMDS Deep Dive: Fintech and AI](https://www.eventbrite.com/e/rmds-deep-dive-financial-technology-cryptocurrency-ai-tickets-109884403208)"**
 
 ### **Instructors: [Yulin Liu](https://www.linkedin.com/in/yulineth/) and [Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/)**
-### Students: to be added
+### Students:
+
+[Shravani Kasralikar](https://www.linkedin.com/in/skasrali/)
+
+[Dhamodharan Kaliyaperumal](https://www.linkedin.com/in/dhamo-datascientist)
+
+[Barbara Hong](https://www.linkedin.com/in/barbarahong77/)
+
+[Piliasov Prokhor](https://www.linkedin.co/in/pilasv)
+
+[Bowen Chen](https://www.linkedin.com/in/chen-bowen/)
+
+[Sathvik Vivek](https://www.linkedin.com/in/sathvikvivek/)
+
+[Shangze He](https://www.linkedin.com/in/mandy-shangze-he-mba-b396bb134/)
+
+[Christopher Ian Steele](https://www.linkedin.com/in/christopher-ian-steele/)
+
+[Alicia Wei](https://www.linkedin.com/in/aliciawei/)
+
+[Yuelin Wang](https://www.linkedin.com/in/yuelin-wang)
+
+[Victor Qiu](https://www.linkedin.com/in/victorqwk)
+
+[Xiaodong Ping](https://www.linkedin.com/in/mordredpxd)
 
 ####
 ####
