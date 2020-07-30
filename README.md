@@ -77,3 +77,8 @@ This course equips participants to thrive within the global paradigm shift for d
 - Program/Workload: Live training: 2 hrs/week (Including hands-on student activities)
 
 ![alt text](https://github.com/sunshineluyao/Fintech-and-AI-RMDS/blob/master/RMDS_DeepDive.jpg)
+
+### About RMDS Lab
+RMDS Lab is an ecosystem service provider that empowers data science professionals and businesses worldwide to achieve successful, data-driven results. Our community members have access to tools and resources that enhance their research and increase the success-rate of their work. Our proprietary web platform uses AI-powered recommendations to connect members to online learning, datasets and workflows, and peers within a collaborative environment. Our community extends offline with hands-on training, conferences, and community events.
+
+RMDS Lab was founded in 2009 by IBM Chief Data Scientist Alex Liu and is headquartered in Pasadena, CA with partners worldwide. It serves more than 35,000 members and affiliates globally. In December 2019, RMDS successfully held IM Data annual conference in the Pasadena Convention Center with 2000+ attendees from all over the world. For more information, visit www.grmds.org.
