@@ -59,8 +59,8 @@ This course equips participants to thrive within the global paradigm shift for d
 --Economist, Data Scientist, Data Engineer in industry interested in Research questions at the Frontier of Fintech and AI; possesses ambition to develop a systematic way of conducting research and technology transfer independently.
 
 ### Value Adds-on
-- Students will be invited to join our course Slack channel for interaction in the course and beyond.
-- Students will have a well-documented collaborative team project profile for personal publicities and further endeavors
+- Pro-active Students will be invited to join our course Slack channel for interaction in the course and beyond.
+- Pro-active Students will have a well-documented collaborative team project profile for personal publicities and further endeavors.
 - Upon completing the course successfully, students will be invited to join our course LinkedIn Alumni Group for connections, future opportunities, and much more.
 
 ### Highlights
