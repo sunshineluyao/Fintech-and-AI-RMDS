@@ -91,5 +91,6 @@ RMDS Lab was founded in 2009 by IBM Chief Data Scientist Alex Liu and is headqua
 ![BTC Price in USD](https://chart-studio.plotly.com/~zlysunshine2020/6)
 
 [Medium Blog: Bitcoin](https://medium.com/@sunshineluyao/btc-price-in-usd-plotly-and-python-1eb6944a8)
+
 [Medium Blog: Stablecoin](https://medium.com/@sunshineluyao/stablecoin-plotly-express-animations-5096d2cea9b8)
 
